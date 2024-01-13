@@ -14,6 +14,8 @@ Config
 
 ![img1](./img/img1.png)
 
+[![Youtube](https://img.youtube.com/vi/S0eNcFW08do/0.jpg)](https://www.youtube.com/watch?v=S0eNcFW08do)
+
 ---
 
 [모드 다운로드](https://github.com/Untitled0828/Mods/raw/main/infiniteAmmo/File/infiniteAmmo-3.7.6.7z "SPT-AKI 3.7.6 버전 대응 플러그인")
