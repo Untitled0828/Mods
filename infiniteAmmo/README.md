@@ -14,6 +14,7 @@ Config
 
 ![img1](./img/img1.png)
 
+클릭시 유튜브로 이동합니다.
 [![Youtube](https://img.youtube.com/vi/S0eNcFW08do/0.jpg)](https://www.youtube.com/watch?v=S0eNcFW08do)
 
 ---
