@@ -49,3 +49,6 @@ Config에 넣으실때 json형식을 꼭 지키셔야 됩니다. ( 콤마 확인
 ---
 
 [모드 다운로드](https://github.com/Untitled0828/Mods/raw/main/ColorTagPatch/File/ColorTagPatch_3.8.1.7z "SPT-AKI 3.8.1 버전 대응 플러그인")
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUntitled0828%2FMods%2Ftree%2Fmain%2FColorTagPatch&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
