@@ -6,7 +6,7 @@
 
 ## 모드 리스트
 
-* SPT-3.8.0
+* SPT-3.8.1
 
 * [ColorTagPatch][ColorTagPatch] - 컨테이너 Tag 기능에서 색상을 확장하는 플러그인 입니다.
 
